@@ -1,0 +1,5 @@
+{
+  "name": "Hair Swap",
+  "description": "An AI-powered hairstyle transformation tool. Upload your photo and instantly visualize different hairstyles to find your perfect look using Gemini 2.5 Flash Image models.",
+  "requestFramePermissions": []
+}
